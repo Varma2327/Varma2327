@@ -44,7 +44,7 @@
 #### 🔹 [QuickTask](https://github.com/Varma2327/quicktask)
 > ✨ A sleek React to-do list app with filters and localStorage support  
 Tech: React.js, JavaScript, CSS  
-🔗 [Live Demo](https://your-vercel-link.vercel.app) <!-- Replace with actual live link -->
+🔗 [Live Demo](https://to23doapp.netlify.app/)
 
 #### 🔹 [Inventory Manager](https://github.com/Varma2327/Inventory)
 > 📦 A basic inventory management app built with vanilla JavaScript  
